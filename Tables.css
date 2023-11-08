@@ -1,0 +1,22 @@
+﻿body
+{
+    
+}
+table,th,td{
+    border-collapse:collapse;
+    border:1px solid red;
+}
+td,th{
+    padding-left:10px;
+
+}
+ul{
+    list-style-type:none;
+    margin: 12px ,30px ,12px, 30px;
+    padding: 10px;
+    overflow:hidden;
+
+}
+li{
+    float:left;
+}

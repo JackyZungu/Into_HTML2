@@ -1,0 +1,21 @@
+﻿body {
+    background-color: palegreen
+}
+
+h1 {
+    color: yellow;
+    font-size: 60px;
+    border: 5px dotted blue;
+    padding:10px;
+}
+
+p {
+    color: red
+}
+h2 {
+    color:purple
+}
+pre{ 
+    color: blue;
+    font-size: 30px;
+}

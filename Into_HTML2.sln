@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E160845-D1D3-470F-9DC2-91953040AF75}"
+	ProjectSection(SolutionItems) = preProject
+		About.html = About.html
+		Contact.html = Contact.html
+		frame.html = frame.html
+		Heading.html = Heading.html
+		Home.html = Home.html
+		HTMLPage1.html = HTMLPage1.html
+		Index.html = Index.html
+		into ito element.html = into ito element.html
+		jackySite.css = jackySite.css
+		links.html = links.html
+		linkss.html = linkss.html
+		list.html = list.html
+		StyleSheet1.css = StyleSheet1.css
+		Skills.html = Skills.html
+		Table.html = Table.html
+		Tables.css = Tables.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B51369A-B053-4CA0-AF1D-375AABA9FCBF}
+	EndGlobalSection
+EndGlobal
